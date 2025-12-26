@@ -123,10 +123,11 @@ streamlit run main.py
 ✔ Produces consistent schema-aligned output
 
 ## 📄 Project Structure
+```
 ├── main.py        # Streamlit application logic
 ├── req.txt        # Dependencies
 ├── .env           # API key configuration
-
+```
 ## 🙌 Acknowledgements
 
 Built using LangChain and Google Gemini to demonstrate real-world LLM applications in HR automation and unstructured data transformation.
